@@ -81,7 +81,7 @@
 97802,廣東布政使司/潮州府.txt,data/fu_embeddings/广东/潮州府.npy
 97822,廣東布政使司/瓊州府.txt,data/fu_embeddings/广东/琼州府.npy
 97836,興都/黃州府.txt,data/fu_embeddings/湖广/黄州府.npy
-97852,湖廣布政使司/漢陽府.txt,data/fu_embeddings/湖广/沔阳州.npy
+97852,興都/承天府.txt,data/fu_embeddings/湖广/沔阳州.npy
 97865,湖廣布政使司/武昌府.txt,data/fu_embeddings/湖广/武昌府.npy
 97880,湖廣布政使司/漢陽府.txt,data/fu_embeddings/湖广/汉阳府.npy
 97893,興都/承天府.txt,data/fu_embeddings/湖广/安陆州.npy
@@ -187,7 +187,7 @@
 221012,貴州布政使司/都勻府.txt,data/fu_embeddings/湖广/都匀卫.npy
 221018,貴州布政使司/平越衛軍民指揮使司.txt,data/fu_embeddings/湖广/平越卫.npy
 221022,四川布政使司/烏撒軍民府.txt,data/fu_embeddings/云南/乌撒府.npy
-221024,貴州布政使司/貴州宣慰使司.txt,data/fu_embeddings/湖广/兴隆卫.npy
+221024,貴州布政使司/貴州布政使司.txt,data/fu_embeddings/湖广/兴隆卫.npy
 221025,貴州布政使司/新添衛軍民指揮使司.txt,data/fu_embeddings/湖广/新添卫.npy
 221026,貴州布政使司/龍里衛軍民指揮使司.txt,data/fu_embeddings/湖广/龙里卫.npy
 221036,四川布政使司/遵義府.txt,data/fu_embeddings/四川/播州宣慰司.npy
@@ -195,7 +195,7 @@
 221041,貴州布政使司/畢節衛.txt,data/fu_embeddings/云南/毕节卫.npy
 221043,四川布政使司/永寧宣撫司.txt,data/fu_embeddings/四川/赤水卫.npy
 221058,貴州布政使司/貴州宣慰使司.txt,data/fu_embeddings/湖广/顺元宣慰司.npy
-221078,四川布政使司/思南府.txt,data/fu_embeddings/湖广/思南宣慰司.npy
+221078,貴州布政使司/貴州布政使司.txt,data/fu_embeddings/湖广/思南宣慰司.npy
 221174,廣西布政使司/慶遠府.txt,data/fu_embeddings/广西/庆远府.npy
 221177,廣西布政使司/思明府.txt,data/fu_embeddings/广西/思明府.npy
 221183,廣西布政使司/都康州.txt,data/fu_embeddings/广西/都康州.npy
